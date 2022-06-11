@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Climb
+  - Swim
+  - Fly
+  - MoveRight
+  - MoveLeft
+  - Damage
+  - Ai
+  - Run
+  - ClimbUp
+  - Wall
+  - Water
+  - Laser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fly
+  - Swim
+  - Climb
+  - Light
+  - AI
+  - PLAYER
+  - AITURN
+  - AITURN2
+  - AI2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
